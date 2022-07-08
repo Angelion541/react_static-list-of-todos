@@ -1,0 +1,2 @@
+.page-content{padding:20px}.title{text-align:center}.todo__list{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));grid-gap:20px;gap:20px;padding:0 10px}.todo__item{padding:5px;text-align:center;background-color:#dfd9d9;border:1px solid #000}.todo__item--complete{background-color:#9f9}.todo__item--complete,.todo__item--uncomplete{display:inline-block;padding:5px;border-radius:25em}.todo__item--uncomplete{background-color:#f99}
+/*# sourceMappingURL=main.6f499ff1.chunk.css.map */
